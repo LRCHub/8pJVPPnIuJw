@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "MONEY IN MY BAG",
+  "base_artist": "倖田來未",
+  "createdAt": "2026-01-08T16:46:08.124890Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "MONEY IN MY BAG",
+      "artist": "Kumi Koda",
+      "has_synced": true,
+      "path": "select/01_MONEY_IN_MY_BAG_Kumi_Koda.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "MONEY IN MY BAG",
+      "artist": "Koda Kumi",
+      "has_synced": true,
+      "path": "select/02_MONEY_IN_MY_BAG_Koda_Kumi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "MONEY IN MY BAG",
+      "artist": "倖田 來未",
+      "has_synced": false,
+      "path": "select/pl_01_MONEY_IN_MY_BAG_倖田_來未.txt"
+    }
+  ]
+}
