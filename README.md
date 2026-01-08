@@ -1,0 +1,111 @@
+# 倖田來未 – MONEY IN MY BAG
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:00.53] I want ya ooh-ooh
+[00:01.68] I want ya money in my bag
+[00:02.76] Want ya money in my bag
+[00:03.92] Want ya want ya want ya money
+[00:06.07] Want ya ooh-ooh
+[00:06.62] I want ya money in my bag
+[00:07.36] Want ya money in my bag
+[00:08.30] Want ya mo mo mo money
+[00:19.30] 
+[00:09.67] もっと Bouncing Hip
+[00:10.73] Hot Shaking Hit
+[00:11.76] Head Banging Trip
+[00:12.66] Give me ya Boody Smash
+[00:13.61] Baby
+[00:15.61] 
+[00:14.89] I want ya money in my bag
+[00:16.13] Want ya want ya want ya money
+[00:17.52] Put your money in my bag
+[00:29.52] 
+[00:18.37] 派手に Bring Bring してるあの Ring
+[00:20.32] 外せないのは Body Line Tight
+[00:22.63] いらないのはね 地味な MENS
+[00:24.84] 早く Green Green baby let it Rain
+[00:40.34] 
+[00:26.83] Uuuuu
+[00:29.19] I want that thing thing thicker than thin
+[00:31.79] Uuuuu
+[00:33.79] I want that ching ching chicka ching ching
+[00:54.79] 
+[00:36.16] I want ya ooh-ooh
+[00:37.36] I want ya money in my bag
+[00:38.53] Want ya money in my bag
+[00:39.54] Want ya want ya want ya money
+[00:41.54] Want ya ooh-ooh
+[00:42.42] I want ya money in my bag
+[00:43.17] Want ya money in my bag
+[00:44.28] Want ya mo mo mo money
+[00:55.28] 
+[00:45.30] もっと Bouncing Hip
+[00:46.64] Hot Shaking Hit
+[00:47.60] Head Banging Trip
+[00:48.67] Give me ya Boody Smash
+[00:49.86] Baby
+[00:51.86] 
+[00:50.87] I want ya money in my bag
+[00:52.07] Want ya want ya want ya money
+[00:53.23] Put your money in my bag
+[01:05.23] 
+[00:54.30] どこを見渡しても Girls Shine
+[00:56.23] 待ちに待ってた日よ Tonight
+[00:58.20] みんなで自由になろう Fly
+[01:00.62] 熱くなったわ Come goes d-d-d-down
+[01:14.12] 
+[01:03.43] Uuuuu
+[01:05.04] I want that thing thing thicker than thin
+[01:07.74] Uuuuu
+[01:09.51] I want that ching ching chicka ching ching
+[01:30.51] 
+[01:12.06] I want ya ooh-ooh
+[01:13.28] I want ya money in my bag
+[01:14.36] Want ya money in my bag
+[01:15.59] Want ya want ya want ya money
+[01:17.27] Want ya ooh-ooh
+[01:17.85] I want ya money in my bag
+[01:18.88] Want ya money in my bag
+[01:19.94] Want ya mo mo mo money
+[01:30.94] 
+[01:21.23] もっと Bouncing Hip
+[01:22.22] Hot Shaking Hit
+[01:23.28] Head Banging Trip
+[01:24.47] Give me ya Boody Smash
+[01:25.44] Baby
+[01:27.44] 
+[01:26.06] I want ya money in my bag
+[01:27.75] Want ya want ya want ya money
+[01:29.04] Put your money in my bag
+[01:41.04] 
+[01:39.70] 今夜の騒ぎは Seacret
+[01:41.76] Give me the ウォッカ 記憶消す効果
+[01:43.81] 保証してたわ Internet
+[01:46.17] 後悔 IN MY BAG
+[01:52.17] 
+[01:47.93] I want ya ooh-ooh
+[01:49.18] I want ya money in my bag
+[01:50.21] Want ya money in my bag
+[01:51.54] Want ya want ya want ya money
+[01:52.62] Want ya ooh-ooh
+[01:53.61] I want ya money in my bag
+[01:54.76] Want ya money in my bag
+[01:55.96] Want ya mo mo mo money
+[02:06.96] 
+[01:57.05] もっと Bouncing Hip
+[01:57.91] Hot Shaking Hit
+[01:59.17] Head Banging Trip
+[02:00.22] Give me ya Boody Smash
+[02:01.29] Baby
+[02:03.29] 
+[02:02.43] I want ya money in my bag
+[02:03.72] Want ya want ya want ya money
+[02:04.97] Put your money in my bag
+[02:16.97] 
+[02:06.09] Money in my bag
+[02:09.50] Money in my bag
+[02:11.91] Money in my bag
+[02:13.72] Money money money in my bag
+```
